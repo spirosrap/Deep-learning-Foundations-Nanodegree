@@ -9,7 +9,7 @@ Classify images from the CIFAR-10 dataset using a convolutional neural network.
 ### Project 3: Generate TV Scripts
 Generate a TV script using a recurrent neural network.
 
-### Project 3: Translation Project
+### Project 4: Translation Project
 Use a neural network to translate from one language to another.
 
 ## Requirements
