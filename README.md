@@ -12,6 +12,10 @@ Generate a TV script using a recurrent neural network.
 ### Project 4: Translation Project
 Use a neural network to translate from one language to another.
 
+### Project 4: Generate Faces
+Use a generative adversarial network (GAN) to generate novel faces.
+
+
 ## Requirements
 Tensorflow 1.0
 
