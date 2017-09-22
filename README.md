@@ -1,4 +1,4 @@
-# ![udacity](udacity.jpg) Deep Learning Nanodegree Foundation :heavy_check_mark:
+# ![udacity](udacity.jpg) Deep Learning Nanodegree Foundations :heavy_check_mark:
 
 ### Project 1: Your first neural network :heavy_check_mark:
 In this project, you'll build and train your own Neural Network from scratch to predict the number of bikeshare users on a given day.
