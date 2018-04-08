@@ -19,6 +19,7 @@ Use a generative adversarial network (GAN) to generate novel faces.
 ## Requirements
 Tensorflow 1.0
 
+![img](dlndf.png)
 
 
 
